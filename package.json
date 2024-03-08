@@ -1,0 +1,23 @@
+{
+  "name": "helloremember",
+  "version": "1.0.0",
+  "description": "hello remember",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuqinqiang/helloremember.git"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "express": "^4.18.2"
+  },
+  "author": "wuqinqiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuqinqiang/helloremember/issues"
+  },
+  "homepage": "https://github.com/wuqinqiang/helloremember#readme"
+}
